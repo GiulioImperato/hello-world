@@ -4,5 +4,8 @@
 int main()
 {
   int n = 5;
+
+  printf("ciao");
+
   return -1
 }
